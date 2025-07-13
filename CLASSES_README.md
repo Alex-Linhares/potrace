@@ -465,4 +465,4 @@ New segment types can be added by extending the segment base classes.
 
 ---
 
-This documentation provides a complete overview of all classes in the Potrace implementation, their relationships, and usage patterns. The classes work together to convert bitmap images into smooth vector curves through a sophisticated 5-stage algorithm. 
+This documentation provides an overview of all classes in the Potrace implementation, their relationships, and usage patterns. The classes work together to convert bitmap images into smooth vector curves through a sophisticated 5-stage algorithm. 
